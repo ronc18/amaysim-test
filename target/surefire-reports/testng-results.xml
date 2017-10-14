@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demo.settingstest.SettingsIT" duration-ms="149675" started-at="2017-10-14T04:58:52Z" finished-at="2017-10-14T05:01:22Z">
+    <groups>
+      <group name="settings">
+        <method signature="SettingsIT.setCallForwardingOption()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="setCallForwardingOption" class="demo.settingstest.SettingsIT"/>
+        <method signature="SettingsIT.setCallSettingsOptions()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="setCallSettingsOptions" class="demo.settingstest.SettingsIT"/>
+      </group> <!-- settings -->
+    </groups>
+    <test name="Command line test" duration-ms="149675" started-at="2017-10-14T04:58:52Z" finished-at="2017-10-14T05:01:22Z">
+      <class name="demo.settingstest.SettingsIT">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="testSetUp" is-config="true" duration-ms="24599" started-at="2017-10-14T15:58:52Z" finished-at="2017-10-14T15:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="editSimNickName()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="editSimNickName" duration-ms="28844" started-at="2017-10-14T15:59:17Z" finished-at="2017-10-14T15:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editSimNickName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="tearDown" is-config="true" duration-ms="1617" started-at="2017-10-14T15:59:46Z" finished-at="2017-10-14T15:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="testSetUp" is-config="true" duration-ms="21387" started-at="2017-10-14T15:59:47Z" finished-at="2017-10-14T16:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="setCallForwardingOption()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="setCallForwardingOption" duration-ms="23542" started-at="2017-10-14T16:00:09Z" finished-at="2017-10-14T16:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCallForwardingOption -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="tearDown" is-config="true" duration-ms="1005" started-at="2017-10-14T16:00:32Z" finished-at="2017-10-14T16:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="testSetUp" is-config="true" duration-ms="19067" started-at="2017-10-14T16:00:33Z" finished-at="2017-10-14T16:00:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="setCallSettingsOptions()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="setCallSettingsOptions" duration-ms="28130" started-at="2017-10-14T16:00:52Z" finished-at="2017-10-14T16:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCallSettingsOptions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo.settingstest.SettingsIT@62043840]" name="tearDown" is-config="true" duration-ms="1437" started-at="2017-10-14T16:01:20Z" finished-at="2017-10-14T16:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.settingstest.SettingsIT -->
+    </test> <!-- Command line test -->
+  </suite> <!-- demo.settingstest.SettingsIT -->
+</testng-results>
