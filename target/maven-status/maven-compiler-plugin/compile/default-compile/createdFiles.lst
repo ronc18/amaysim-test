@@ -1,9 +1,0 @@
-elements\Element.class
-manager\DriverManager.class
-pages\AuthenticationPage.class
-pages\SuccessPopUp.class
-pages\ConfirmationPopUp.class
-pages\SettingsPage.class
-pages\DashboardPage.class
-pages\CanvasMenu.class
-pages\AmaysimPage.class
